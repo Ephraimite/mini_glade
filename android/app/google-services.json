@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401405967421",
+    "project_id": "mini-glade",
+    "storage_bucket": "mini-glade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401405967421:android:4054ebde7a70892c6dbe54",
+        "android_client_info": {
+          "package_name": "com.example.mini_glade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401405967421-beai4t576ksj2dnbni158sc3r70k7otq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3-hKsK4Fmvwks__9mU52-DHI2JXpJJ64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401405967421-beai4t576ksj2dnbni158sc3r70k7otq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
